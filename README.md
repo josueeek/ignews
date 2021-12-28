@@ -67,14 +67,14 @@ $ yarn start
 ### 🔗 Link para o projeto online
 
 
-[Ignews](https://ignews-umber.vercel.app/)
+[Ignews](https://ignews-an6w7566i-josueeek.vercel.app/)
 <p><strong>Aviso</strong>, o Stripe possui um token de teste que dura apenas alguns dias e não irei atualizar o mesma quando vencer, então não será testar o sistema de compra.</p>
 
 &nbsp;
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/GBDev13/ignews/blob/main/LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/josueeek/ignews/blob/main/LICENSE) para detalhes.
 
 
 ---
